@@ -59,20 +59,36 @@ Check https://github.com/wmdk/Oxid_ErpPaymentInfo/blob/master/LICENSE for curren
 ## Imprint
 
 *Kussin | eCommerce und Online-Marketing*
+
 Telefon: +49 (4101) 85868 - 0
+
 Telefax: +49 (4101) 85868 - 29
+
 Email: info@kussin.de 
+
 URL: www.kussin.de
 
+
+
 Unser Know-how für Ihr Geschäft:
+
 eCommerce
+
 Web Design
+
 Web Entwicklung
+
 Online Marketing
 
+
 Sie erhalten diese E-Mail von der
+
 Kussin | eCommerce und Online-Marketing GmbH
+
 Fahltskamp 3 in 25421 Pinneberg
+
 Geschäftsführer: Daniel Kussin 
+
 Eingetragen beim Amtsgericht Pinneberg, HRA 8305 PI
+
 USt-IdNr. DE320729440
